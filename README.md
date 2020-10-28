@@ -48,7 +48,7 @@ postgres=# \i scriptbancorh.sql
 
 5. Altere no código fonte, mais específicamente no pacote *persistencia*, a String ```user``` e a ```senha``` de acordo com as suas configurações do postgres.
 Caso não esteja utilizando a porta de conexão padrão localhost:5432, altere-a em conjunto.
-`<pre>`
+
 ```java
 public static Connection getConnection() {
 		String driver = "org.postgresql.Driver";
