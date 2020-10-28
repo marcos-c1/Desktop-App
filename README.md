@@ -40,7 +40,7 @@ Ou
 postgres=# \c hf
 ```
 
-4. Ao acessa-lo, rode o script **scriptbancorh.sql** (tenha certeza de que o caminho ao diretório da pasta esteja correto).
+4. Ao acessa-lo, rode o script **hotel_fazenda.sql** (tenha certeza de que o caminho ao diretório da pasta esteja correto).
 
 ```sh
 postgres=# \i scriptbancorh.sql
