@@ -2,6 +2,10 @@
 Uma aplicação Desktop básica para cadastramento de dados em um universo Hotel Fazenda. 
 Feito na linguagem Java e usando a API Swing do próprio JDK.
 
+<img height="300" align="center"  src="https://github.com/marcos-c1/Desktop-App/blob/main/logo/tabela_Client.png">
+
+> Tabela de Cadastro de Clientes
+
 ## Instruções para a configuração do ambiente
 
 1. Instale o banco de dados **postgres** com o gerenciador de pacotes do próprio sistema Linux em seu terminal.
